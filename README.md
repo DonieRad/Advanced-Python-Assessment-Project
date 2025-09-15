@@ -1,7 +1,7 @@
 # Advanced-Python-Assessment-Project
 This repository contains my solutions for a university **Programming and Algorithms** assessment.   The tasks cover **object-oriented programming, data structures, and algorithms** in Python.
 
-Each task is implemented in a single script (`task1.py … task5.py`) with comments for clarity.
+Each task is implemented in a single script (`Task1_OOP.py … Task5_OOP.py`) with comments for clarity.
 
 ## Tasks Overview
 
